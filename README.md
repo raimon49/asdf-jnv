@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-jnv [![Build](https://github.com/raimon/asdf-jnv/actions/workflows/build.yml/badge.svg)](https://github.com/raimon/asdf-jnv/actions/workflows/build.yml) [![Lint](https://github.com/raimon/asdf-jnv/actions/workflows/lint.yml/badge.svg)](https://github.com/raimon/asdf-jnv/actions/workflows/lint.yml)
+# asdf-jnv [![Build](https://github.com/raimon49/asdf-jnv/actions/workflows/build.yml/badge.svg)](https://github.com/raimon49/asdf-jnv/actions/workflows/build.yml) [![Lint](https://github.com/raimon49/asdf-jnv/actions/workflows/lint.yml/badge.svg)](https://github.com/raimon49/asdf-jnv/actions/workflows/lint.yml)
 
 [jnv](https://github.com/raimon49/asdf-jnv) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -24,7 +24,7 @@ Plugin:
 ```shell
 asdf plugin add jnv
 # or
-asdf plugin add jnv https://github.com/raimon/asdf-jnv.git
+asdf plugin add jnv https://github.com/raimon49/asdf-jnv.git
 ```
 
 jnv:
@@ -50,8 +50,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/raimon/asdf-jnv/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/raimon49/asdf-jnv/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) 息 [raimon](https://github.com/raimon/)
+See [LICENSE](LICENSE)
