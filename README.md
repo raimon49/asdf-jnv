@@ -2,7 +2,7 @@
 
 # asdf-jnv [![Build](https://github.com/raimon49/asdf-jnv/actions/workflows/build.yml/badge.svg)](https://github.com/raimon49/asdf-jnv/actions/workflows/build.yml) [![Lint](https://github.com/raimon49/asdf-jnv/actions/workflows/lint.yml/badge.svg)](https://github.com/raimon49/asdf-jnv/actions/workflows/lint.yml)
 
-[jnv](https://github.com/raimon49/asdf-jnv) plugin for the [asdf version manager](https://asdf-vm.com).
+[jnv](https://github.com/ynqa/jnv) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
